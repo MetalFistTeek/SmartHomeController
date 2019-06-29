@@ -1,10 +1,11 @@
 /*
  * Description: serve as basis to any smart device. Gives each smartdevice
  * a name, id, and a toString method that gives its name and ID together in
- * a string. 
+ * a string format. 
  */
 public class SmartDevice implements DeviceInfo {
  
+
  private int id;
  private String name;
  
